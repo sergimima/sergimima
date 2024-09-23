@@ -14,9 +14,9 @@ I’m Sergi Mias Martínez, a student at CodeCrypto Academy. My focus is on buil
   [Repository Link](URL)
 
 ###### Web2.5 
-- **[Project Name]**  
+- **[Faucet]**  
   REST API developed with **Node.js** and **MongoDB**, enhancing backend capabilities.  
-  [Repository Link](URL)
+  [https://github.com/codecrypto-academy/sergimima/tree/web2.5-faucet](https://github.com/codecrypto-academy/sergimima/tree/web2.5-faucet)
 
 - **[Project Name]**  
   Full-stack application with secure authentication and data management, built in a collaborative environment.  
