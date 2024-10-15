@@ -9,37 +9,21 @@ I’m Sergi Mias Martínez, a student at CodeCrypto Academy. My focus is on buil
 ## Projects
 
 ###### Web2
-- **[Project Name]**  
-  A full-stack web application using **HTML, CSS, JavaScript**. Focused on frontend design and user experience.  
-  [Repository Link](URL)
+
 
 ###### Web2.5 
 - **Faucet**  
-  En este proyecto, se ha intentado replicar el funcionamiento de un fauce.
+  Project to replicate a Faucet
   
-  # Front
-  Utiliazando React, Javascript
-
-  # Back
-  Utilizando NodeJs, Javascript
-
-  # Blockchain
-  Se ha utilizidado Docker para crear e implementar unos nodos ethereum.
+  # Technologies used:
+  React, Javascript, NodeJs, Web3 and Ethers library, Docker
   
   [https://github.com/codecrypto-academy/sergimima/tree/web2.5-faucet](https://github.com/codecrypto-academy/sergimima/tree/web2.5-faucet)
 
-- **[Project Name]**  
-  Full-stack application with secure authentication and data management, built in a collaborative environment.  
-  [Repository Link](URL)
+
 
 ###### Web3  
-- **[Project Name]**  
-  Smart contract in **Solidity** integrated into a dApp for decentralized asset management.  
-  [Repository Link](URL)
 
-- **[Project Name]**  
-  A comprehensive dApp, developed as a team, covering everything from blockchain integration to front-end deployment.  
-  [Repository Link](URL)
 
   
 
