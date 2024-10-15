@@ -13,14 +13,25 @@ I’m Sergi Mias Martínez, a student at CodeCrypto Academy. My focus is on buil
 
 ###### Web2.5 
 - **Faucet**  
-  Project to replicate a Faucet
+  ##Project to replicate a Faucet
   
   - Technologies used:
   React, Javascript, NodeJs, Web3 and Ethers library, Docker
   
   [https://github.com/codecrypto-academy/sergimima/tree/web2.5-faucet](https://github.com/codecrypto-academy/sergimima/tree/web2.5-faucet)
 
+- **Web2.5 Final Team project**
+  #Ethereum Project: Ethereum Network Management Tool
+  ![image](https://github.com/user-attachments/assets/2ab8b805-cbed-4ced-9d25-47004eedccd7)
 
+  
+  Developed a comprehensive Ethereum network management application using React, Node.js, and Oracle DB. This tool enables creation, monitoring, and interaction with custom Ethereum networks.
+
+  Key Achievements: • Implemented a responsive React frontend with Vite for efficient development and optimized performance • Designed a robust Node.js backend with Express, integrating ethers.js and Web3 for blockchain interactions • Utilized Docker for streamlined deployment of Ethereum nodes • Incorporated Oracle DB for reliable     data persistence and efficient querying • Employed agile methodologies for iterative development and continuous improvement • Created RESTful API endpoints for seamless frontend-backend communication • Implemented real-time blockchain data fetching and display
+  
+  Technologies: React, Node.js, Express, Oracle DB, ethers.js, Web3, Docker, Vite, Git
+  
+  This project demonstrates proficiency in full-stack development, blockchain technologies, and agile project management.
 
 ###### Web3  
 
