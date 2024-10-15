@@ -15,7 +15,7 @@ I’m Sergi Mias Martínez, a student at CodeCrypto Academy. My focus is on buil
 - **Faucet**  
   Project to replicate a Faucet
   
-  # Technologies used:
+  - Technologies used:
   React, Javascript, NodeJs, Web3 and Ethers library, Docker
   
   [https://github.com/codecrypto-academy/sergimima/tree/web2.5-faucet](https://github.com/codecrypto-academy/sergimima/tree/web2.5-faucet)
