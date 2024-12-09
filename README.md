@@ -39,7 +39,8 @@ I’m Sergi Mias Martínez, a student at CodeCrypto Academy. My focus is on buil
 
 - **Olive Oil Supply Chain Traceability**
   #Blockchain-based traceability system for olive oil production and distribution
-  ![image](https://github.com/user-attachments/assets/2ab8b805-cbed-4ced-9d25-47004eedccd7)
+  <img width="1148" alt="image" src="https://github.com/user-attachments/assets/ed70ca47-a964-4fe4-9fc7-3fde65bbe9e8">
+
   
   Developed a decentralized application (dApp) for tracking and verifying the entire olive oil supply chain process, from production to retail distribution, using blockchain technology.
 
