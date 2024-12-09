@@ -35,6 +35,27 @@ I’m Sergi Mias Martínez, a student at CodeCrypto Academy. My focus is on buil
 
 ###### Web3  
 
+###### Master Final Project
+
+- **Olive Oil Supply Chain Traceability**
+  #Blockchain-based traceability system for olive oil production and distribution
+  ![image](https://github.com/user-attachments/assets/2ab8b805-cbed-4ced-9d25-47004eedccd7)
+  
+  Developed a decentralized application (dApp) for tracking and verifying the entire olive oil supply chain process, from production to retail distribution, using blockchain technology.
+
+  Key Achievements:
+  • Built a responsive Next.js frontend with Tailwind CSS for an intuitive user interface
+  • Implemented smart contracts using Solidity for transparent supply chain management
+  • Integrated QR code scanning functionality for product verification
+  • Created an interactive map system using Leaflet for supply chain visualization
+  • Deployed the frontend on Vercel for global accessibility
+  • Implemented role-based access control for different supply chain participants
+  
+  Technologies: Next.js, TypeScript, Solidity, Ethers.js, Tailwind CSS, Leaflet Maps, QR Code Integration, Vercel
+
+  [Live Demo](https://trazabilidad-aceite-pfm.vercel.app/) | [GitHub Repository](https://github.com/codecrypto-academy/sergimima/tree/web3-olive-oil)
+
+  This project demonstrates expertise in full-stack Web3 development, smart contract implementation, and building real-world blockchain solutions.
 
   
 
