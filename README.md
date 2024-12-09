@@ -54,7 +54,7 @@ I’m Sergi Mias Martínez, a student at CodeCrypto Academy. My focus is on buil
   
   Technologies: Next.js, TypeScript, Solidity, Ethers.js, Tailwind CSS, Leaflet Maps, QR Code Integration, Vercel
 
-  [Live Demo](https://trazabilidad-aceite-pfm.vercel.app/) | [GitHub Repository](https://github.com/codecrypto-academy/sergimima/tree/web3-olive-oil)
+  [Live Demo](https://trazabilidad-aceite-pfm.vercel.app/) | [GitHub Repository](https://github.com/codecrypto-academy/pfm-web3-nov24-1)
 
   Product information:
   <img width="1148" alt="image" src="https://github.com/user-attachments/assets/ed70ca47-a964-4fe4-9fc7-3fde65bbe9e8">
